@@ -1,0 +1,71 @@
+
+
+body{
+    width: 700px;
+    margin: auto;
+    background-image: url(sfondo.jpg);
+    background-size: cover;
+}
+main,nav,#navigation{
+    margin-left: 40px;
+    margin-right: 50px;
+    padding-bottom: 50px
+}
+
+.logo-lim{
+    color: rgba(0, 230, 0, 1);
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 60px;
+}
+
+#navigation{
+    background-color: rgba(0, 230, 0, 1);
+    padding: 1%;
+    text-align:center;
+
+}
+#sfondo{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 2%;
+    width: 120%
+}
+ul span{
+    font-size: 12px;
+    display: block;
+
+}
+
+div {
+    color: white;
+    font-size: 20px
+
+}
+
+#mybox{
+width:300px;
+
+height:25px;
+
+background-color: orange;
+
+border-radius: 5%
+}
+#mybox2{
+width:500px;
+
+height:25px;
+
+background-color: rgba(0, 230, 0, 1);
+
+border-radius: 5%
+}
+#mybox3{
+width:100px;
+
+height:25px;
+
+background-color: red;
+
+border-radius: 5%
+}
